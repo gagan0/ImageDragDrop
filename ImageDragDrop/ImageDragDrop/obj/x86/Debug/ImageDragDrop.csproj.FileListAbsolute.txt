@@ -1,0 +1,9 @@
+c:\users\gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\bin\Debug\ImageDragDrop.exe
+c:\users\gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\bin\Debug\ImageDragDrop.pdb
+c:\users\gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\obj\x86\Debug\ImageDragDrop.Form1.resources
+c:\users\gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\obj\x86\Debug\ImageDragDrop.Properties.Resources.resources
+c:\users\gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\obj\x86\Debug\ImageDragDrop.csproj.GenerateResource.Cache
+c:\users\gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\obj\x86\Debug\ImageDragDrop.exe
+c:\users\gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\obj\x86\Debug\ImageDragDrop.pdb
+C:\Users\Gagan\Documents\Visual Studio 2010\Projects\ImageDragDrop\ImageDragDrop\obj\x86\Debug\ImageDragDrop.csprojResolveAssemblyReference.cache
+C:\Users\Gagan\documents\visual studio 2010\Projects\ImageDragDrop\ImageDragDrop\obj\x86\Debug\ImageDragDrop.LayoutOptions.resources
